@@ -1,0 +1,15 @@
+.section_img img{
+    border-radius: 15px;
+    height: 100%;
+    width: 100%;
+}
+.icon i {
+    font-size: 40px;
+    padding: 20px;
+}
+.section4Content {
+    background: #E7E5F0;
+    margin: 10px;
+    padding: 30px;
+    border-radius: 10px;
+}

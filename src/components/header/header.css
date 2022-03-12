@@ -1,0 +1,17 @@
+.nav_content a {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 40px;
+}
+button.btn_success {
+    background: #F76D97;
+    color: white;
+    padding: 11px 32px;
+    outline: none;
+    border: none;
+}
+button.btn_success:hover {
+    color: white;
+    background: #655E91;
+    transition: all .5s;
+}

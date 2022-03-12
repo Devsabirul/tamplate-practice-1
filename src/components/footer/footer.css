@@ -1,0 +1,35 @@
+.logo_Section {
+    padding: 33px;
+}
+
+.logo_Section img {
+    width: 15em;
+}
+
+.logo_Section p {
+    font-size: 20px;
+    width: 80%;
+}
+.contact_info{
+    padding: 33px;
+}
+.contact_info h1{
+    font-weight: bold;
+    color: #655E91;
+    margin-bottom: 20px;
+}
+.contact_info p {
+    font-size: 20px;
+    margin-left: 12px;
+}
+
+.contact_info span {
+    padding: 10px;
+    color: #F76D97;
+    font-size: 20px;
+}
+
+.contact_info span:hover {
+    color:#6C5F91;
+    transition:all .5s;
+}

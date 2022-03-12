@@ -1,0 +1,30 @@
+.img_section img{
+    border-radius: 20px;
+    height: 100%;
+    width: 100%;
+}
+.bg_none{
+    background-color: gainsboro;
+    padding: 5em;
+}
+.section3_content{
+    padding: 20px;
+}
+.section3_content h1{
+    font-weight: bold;
+    font-size: 60px;
+}
+.section3_content p{
+    font-size: 18px;
+    line-height: 2em;
+    margin: 30px 0px;
+}
+.section3_content h3{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.section3_content span{
+    font-size: 35px;
+    color: #ff3172;
+    margin-right: 15px;
+}

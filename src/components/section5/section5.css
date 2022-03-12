@@ -1,0 +1,18 @@
+.section5{
+    background-image: url('../../../public/image/image5.png');
+    width: auto;
+    height: 100%;
+    padding: 5em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    margin: 50px 0px 50px 0px;
+}
+.content5 {
+    line-height: 30px;
+}
+
+.content5 h1 {
+    font-size: 50px;
+}
